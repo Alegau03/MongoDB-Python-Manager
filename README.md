@@ -13,4 +13,7 @@ There is no graphical user interface (GUI) integrated, it is all managed on the 
 
 Data can be added several at a time using a text file.
 
-Feel free to contact me for clarifications or suggestions
+Feel free to contact me for clarifications or suggestions.
+
+
+The programme is written entirely in Italian, if anyone is interested in using it I can translate it.
